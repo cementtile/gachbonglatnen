@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Gạch bông lát nền",
+    "description": "",
+    "home_page_url": "https://gachbonglatnen.netlify.app",
+    "feed_url": "https://gachbonglatnen.netlify.app/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Gạch Bông CTS"
+    },
+    "items": [
+    ]
+}
